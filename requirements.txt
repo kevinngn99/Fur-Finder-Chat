@@ -1,0 +1,5 @@
+channels
+django
+gunicorn
+django-heroku
+django-redis-cache
